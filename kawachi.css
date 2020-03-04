@@ -1,0 +1,75 @@
+#entete{
+ background-image: url("cap1.jpg");
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+    padding-top: 0px;
+    padding-top: 0px;
+    height: 200px;
+    margin: auto;
+    width: 1000px;
+
+}
+h1{
+text-align: center;
+font-family: fuchsia;
+font-size: 50px;
+color: orange;
+}
+img{
+    width: 380px;
+    height: 400px;
+    text-align: center;
+}
+table{
+margin-left: auto;
+margin-right: auto;
+text-align: center;
+}
+td{
+    font-family: fantasy;
+    font-size: 30px;
+}
+#piedpage{
+    background-color: rgb(221, 86, 109);
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+marquee{
+    color: black;
+    font-family: fantasy;
+    font-size: 80px;
+    text-align: center;
+    font-weight: 30px;
+}
+video{
+    height: 600px;
+    width: 1000px;
+    margin: auto;
+    margin-bottom: auto;
+    text-align: center;
+}
+#menu{
+    width: 1000px;
+    height: 40px;
+    text-align: center;
+    margin: auto auto;
+}
+li{
+    display: inline-block;
+    padding: 10px;
+    color: white;
+    margin-left: 10PX ;
+    color: black;
+
+}
+li:hover{
+    background-color:orangered;
+    color: black;
+}
+ul{
+    text-align: center;
+    padding: 0px
+}

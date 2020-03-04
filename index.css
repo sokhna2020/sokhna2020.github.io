@@ -1,0 +1,86 @@
+marquee{
+    color: yellow;
+    font-family: fantasy;
+    font-size: 50px;
+    text-align: center;
+    font-weight: 30px;
+}
+h1{
+    text-align: center;
+    color: black;
+    font-family: fantasy;
+}
+ol{
+    color: blue;
+    text-align: center;
+    font-family: unset;
+    font-size: 15px;
+    font-weight: 15px;
+}
+a{
+    color: black;
+}
+img{
+    width: 300px;
+    height: 280px;
+    text-align: center;
+    transform: scale(1);
+}
+table{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-block-end:auto ;
+    padding-top: 0px;
+}
+#entete{
+    background-color: rgb(143, 143, 185);
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+    padding-top: 0px;
+    padding-top: 0px;
+    height: 200px
+}
+#contenu{
+    background-color: yellow;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+    padding-top: 0px;
+    padding-top: 0px;
+}
+#piedpage{
+    background-color: rgb(153, 153, 209);
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+    padding-top: 0px;
+    padding-top: 0px;
+}
+#menu{
+    width: 1000px;
+    height: 40px;
+    text-align: center;
+    margin: auto auto;
+}
+li{
+    display: inline-block;
+    padding: 10px;
+    color: white;
+    margin-left: 10PX ;
+    color: black;
+
+}
+li:hover{
+    background-color: yellow;
+    color: black;
+}
+ul{
+    text-align: center;
+    padding: 0px
+}

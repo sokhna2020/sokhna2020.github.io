@@ -1,0 +1,66 @@
+body{
+    background-color: darkorchid;
+}
+h1{
+    text-align: center;
+    font-family: fantasy;
+    color: darkred;
+    font-size: 50px;
+}
+img{
+    width: 380px;
+    height: 400px;
+    text-align: center;
+}
+ul{
+    list-style: none;
+}
+marquee{
+    color: black;
+    font-family: fantasy;
+    font-size: 70px;
+    text-align: center;
+    font-weight: 30px;
+}
+video{
+    height: 600px;
+    width: 1000px;
+    margin: auto;
+    margin-bottom: auto;
+    text-align: center;
+}
+#menu{
+    width: 1000px;
+    height: 40px;
+    text-align: center;
+    margin: auto auto;
+}
+li{
+    display: inline-block;
+    padding: 10px;
+    color: white;
+    margin-left: 10PX ;
+    color: black;
+
+}
+li:hover{
+    background-color:black;
+    color: black;
+}
+ul{
+    text-align: center;
+    padding: 0px
+}
+#entete{
+    background-image: url("cap1.jpg");
+       margin-top: auto;
+       margin-left: auto;
+       margin-right: auto;
+       padding: 0px;
+       padding-top: 0px;
+       padding-top: 0px;
+       height: 200px;
+       margin: auto;
+       width: 1000px;
+   }
+   
